@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Home - So Delicious Tables</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <style>
+  .bg-wg {
+    background-color: #ff7043  
+  }
+  </style>
+</head>
+<body class="bg-wg">
+	 <!-- Navigation -->
+  <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">So Delicious Tables</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="concept.html">
+            	<button type="button" class="btn btn-outline-light text-white">Concept</button></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-white" href="help.html" class="text-white">
+            	<button type="button" class="btn btn-outline-light text-white">FAQ</button></a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link" href="connexion.html">
+            	<button type="button" class="btn btn-light text-dark">Login</button></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+<!-- Page Content -->
+<br>
+<br>
+<br>
+<header>
+<div class="container">
+
+    <h1 class="my-4 text-center">FAQ</h1>
+
+    <!-- Marketing Icons Section -->
+
+	<div class="row">
+<div class="col-sm-6 col-sm-offset-8 mx-auto bg-light">
+    <br>
+    <h5><b>Vous avez une question ?</b></h5><br /><h6><b>Voici les questions les plus fréquentes qui nous sont posées sur la prise de commande et sa gestion.</b></h6>
+    <br>
+     <p class="card-text text-justify"><b>Dois-je avoir un compte utilisateur pour réserver sur So Delicious Tables ?</b><br /> Oui, vous avez besoin d'un compte So Delicious Tables.
+     <br>
+     <br>
+     <b>Pourquoi ?</b><br /> Nos restaurants sont choisis avec rigueur  vous faire vivre une belle expérience ! De plus, nous avons besoin de transmettre les informations demandées dans notre formulaire d'inscription au restaurant (que vous avez selectionné) afin qu'il effectue un suivi de votre réservation.
+     <br>
+     <br>
+     <b>Comment rechercher un restaurant sur So Delicious Tables ?</b><br /> Il vous suffit de compléter la barre de recherche que vous trouverez sur notre page d'accueil : tapez la ville ou le type de cuisine.
+     <br>
+     <br>
+     <b>Comment réserver ?</b><br />Après avoir selectionné votre restaurant, renseignez la date, l'heure et le nombre de couverts et enfin cliquez sur le bouton Je Réserve. Vous recevrez une confirmation par mail.
+     <br>
+     <br>
+     <b>Un problème, une annulation... Que faire ?</b><br />Contactez-nous au 00.15.99.88.66 ou à sodelicioustables@gmail.com ! Cela sera toujours un plaisir de vous renseigner et trouvez une solution à votre problème !
+     <br>
+     <p class="card-text text-justify text-right"><b>Xoxo l'équipe So Delicious Tables</b></p>
+     <br>
+</div>
+  </div>
+</div>    
+</header>
+    <!-- /.row -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</body>
+</html>
