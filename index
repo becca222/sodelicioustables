@@ -12,6 +12,13 @@
    .bg-wg {
     background-color: #ff7043  
   }
+   .footer {
+   height: 80px;
+   padding-top: 30px;
+   text-align: center;
+   background-color: #FFFFFF;
+   border-top: 2px solid #AAA;
+  }
   </style>
 </head>
 <body class="bg-wg">
@@ -143,12 +150,7 @@
 <footer class="app-footer " class="bg-light">
 
   <div class="text-left">
-    <a href="https://coreui.io">CoreUI</a>
-    <span>&copy; 2018 creativeLabs.</span>
-  </div>
-  <div class="ml-auto text-right">
-    <span>Powered by</span>
-    <a href="https://coreui.io">CoreUI</a>
+    <p>Copyright 2019 So Delicious Tables - Toute repoduction est interdite</p>
   </div>
 </footer>
 </html>
