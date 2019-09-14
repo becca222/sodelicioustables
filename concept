@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Home - So Delicious Tables</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <style>
+ .bg-wg {
+    background-color: #ff7043  
+  }
+  </style>
+</head>
+<body class="bg-wg">
+	 <!-- Navigation -->
+  <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">So Delicious Tables</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="concept.html">
+            	<button type="button" class="btn btn-outline-light text-white">Concept</button></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-white" href="help.html" class="text-white">
+            	<button type="button" class="btn btn-outline-light text-white">FAQ</button></a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link" href="connexion.html">
+            	<button type="button" class="btn btn-light text-dark">Login</button></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+<!-- Page Content -->
+<br>
+<br>
+<br>
+<header class="bg-color">
+<div class="container">
+
+    <h1 class="my-4 text-center">Notre Concept</h1>
+    <br>
+
+    <!-- Marketing Icons Section -->
+
+	<div class="row">
+<div class="col-sm-5 col-sm-offset-6 mx-auto bg-light">
+    <h5><u>Notre but :</u></h5>
+    <br>
+    <h5>Proposer de belles tables aux Franciliens !</h5>
+    <br>
+     <p class="card-text text-navy text-justify">Aujourd’hui, So Delicious Tables est le site le plus sélectif de l'Ile-de-France grâce à une sélection de 250 restaurants, parmi les meilleurs. Il vous permet de trouver une bonne table, en fonction de vos critères : type de cuisine, arrondissement, budget ou envie, mais également de réserver en ligne, en temps réel !<br /><br />Créé en 2017, le concept est né de l'envie de partager de belles adresses, accessible à tous les Parisiens et Franciliens et réservable en 1 clic !<br /><br />N’importe où et à n’importe quel moment, vous êtes en possession de plus de 250 adresses réunissant les meilleurs restaurants de l'Ile-de-France dans toutes les catégories.<br /><br /><b>Découvrez, réservez et... <u>Bon Appétit !</u></b></p> 
+     <br>
+</div>
+  </div>
+</div>    
+</header>
+ </body>
+</body>
+</html>
